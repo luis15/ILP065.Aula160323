@@ -1,0 +1,15 @@
+{
+  "name": "aula16-03",
+  "version": "1.0.0",
+  "description": "aula de criação de API com express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Luis Coêlho",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
